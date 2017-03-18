@@ -1,5 +1,5 @@
 /*
-Name: Aamod Paudel
+Name: Aamod Paudel and group
 Purpose: To use functions to write to and to read the data from a file. Also, use array.
 Date:3/3/2017
 */
